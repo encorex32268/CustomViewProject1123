@@ -1,0 +1,13 @@
+<resources>
+    <declare-styleable name="ProgressView">
+        <attr name="image2" format="reference" />
+        <attr name="image" format="reference" />
+        <attr name="image3" format="reference" />
+        <attr name="progressBarColor" format="color"></attr>
+        <attr name="progressBaseBarColor" format="color"></attr>
+        <attr name="maxStep" format="integer"></attr>
+        <attr name="nowStep" format="integer"></attr>
+
+    </declare-styleable>
+</resources>
+
